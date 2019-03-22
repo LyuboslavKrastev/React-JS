@@ -11,6 +11,11 @@ h1 {
     text-align: center;
 }
 
+.center_form{
+    margin: 0 auto;
+    width:30% /* value of your choice which suits your alignment */
+}
+
 .container {
     width: 800px;
     padding: 10px;
